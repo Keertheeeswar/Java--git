@@ -11,7 +11,8 @@
   }
 
   /* Style the content of the dropdown */
-  details ul {
+
+   details ul {
     margin: 0;
     padding-left: 20px;
   }
