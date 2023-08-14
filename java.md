@@ -104,23 +104,3 @@ javac Main
 static void main(String[] args)
 ```
 
-  ## S :
-<details><summary>1) Stack Memory</summary>
-  <ul>
-    <li> eg: a=10</li>
-    <li>a is known as reference variable</li>
-    <li>a is a variable in stack memory </li>
-    <li>pointing towards the object in heap memory
-    </li>
-    <li>10 is object</li>
-    
-
-</ul></details>
-
-<details><summary>2) Heap Memory</summary>
-  <ul>
-    <li>eg: a =10</li>
-    <li>actual value is stored in heap</li>
-    <li>object is stored in heap memory</li>
-    
-</ul></details>
