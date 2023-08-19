@@ -1,16 +1,7 @@
 # Java--git
 <details><summary>-This repository is the documentation of learning java
   </summary></details>
-<style>
-  /* Style the dropdown summary button */
-  details summary {
-    cursor: pointer;
-    list-style: none;
-    padding: 0;
-    font-weight: bold;
-  }
 
-</style>
 
 
 ## Functions and methods:
