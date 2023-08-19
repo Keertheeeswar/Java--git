@@ -1,21 +1,7 @@
 # Java--git
 <details><summary>-This is about Learning String and Loops
   </summary></details>
-<style>
-  /* Style the dropdown summary button */
-  details summary {
-    cursor: pointer;
-    list-style: none;
-    padding: 0;
-    font-weight: bold;
-  }
 
-  /* Style the content of the dropdown */
-  details ul {
-    margin: 0;
-    padding-left: 20px;
-  }
-</style>
 
 ## String:
 <details><summary>  1) String input:</summary> <ul>
