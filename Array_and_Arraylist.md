@@ -235,26 +235,4 @@ public class ArrayListExample {
   ```
 
 
-  <details><summary>  2)How the array list thing works internally? </summary> <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul></details> 
-
-  <details><summary>  3) </summary> <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul></details> 
-
-  <details><summary>  4) </summary> <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul></details> 
-
-  <details><summary>  5) </summary> <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul></details> 
+  
